@@ -1,1 +1,1 @@
-print(eval(input("enter"))) #bodmas
+print(eval(input("enter"))) 
