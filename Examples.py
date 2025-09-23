@@ -1,4 +1,8 @@
-example ="""im so sigma that even sigma cant expain how sigma 
- feel being aN ACTUAL
-  SIGMA IN THIS SIGMA WORLD"""
-print(example)
+a = 15
+d = 2
+
+print(a//d) #Floor division
+
+print(a**d) #Exponent
+
+print(a%d) #Modulus
