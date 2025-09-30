@@ -36,3 +36,34 @@ console.log(first == second)
 true
 console.log(first === second)
 false
+
+Exercise
+Give an example use case of:
+1. an "if" statement
+2. an "if ... else " statement
+3. an "if ... else if ... else" statement
+
+# loop?
+## for Loop
+
+for (initialization; condition; increment){
+    // code that ruvery time
+}
+
+for (let i = 4; i > 0; i--){
+    console.log("Phil")
+}
+
+-- minus 1
+++ plus 1
+
+// Output
+i = 4
+Phil
+i = 3
+Phil
+i = 2
+Phil
+i = 1
+Phil
+i = 0
